@@ -1,0 +1,13 @@
+#Secrets
+**secret**
+
+#VS Code
+.vscode/
+
+#Webview stuff
+.webview/ #User data on Windows (cookies, localstorage etc)
+
+#Build artifacts
+bin/
+yaro
+yaro.exe

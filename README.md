@@ -1,7 +1,7 @@
 # yaro
-An open source launcher for EA games
+An open source command-line launcher for EA games
 
-## Current Status
+## Feature status
 
 - [X] Authorization
 - [ ] Download games
